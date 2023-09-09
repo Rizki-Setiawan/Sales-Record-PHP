@@ -1,4 +1,5 @@
 <?php
+// ini merupakan file koneksi ke database
 
 $con = mysqli_connect("localhost", "root", "", "db_gerewek");
 
