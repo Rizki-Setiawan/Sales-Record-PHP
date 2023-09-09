@@ -1,6 +1,6 @@
 <?php
 // ini merupakan file koneksi ke database
-
+// this is comment
 $con = mysqli_connect("localhost", "root", "", "db_gerewek");
 
 if (mysqli_connect_errno()) {
